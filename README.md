@@ -9,6 +9,5 @@ no environment variables, no database, no server.
 
 
  Get a live link
-https://app.netlify.com/projects/bucolic-hotteok-50e9df/overview
-
+https://bucolic-hotteok-50e9df.netlify.app/bv
 
